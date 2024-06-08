@@ -96,7 +96,7 @@ you can enter as many messages you want, and has a variety of commands for you t
   exit         - Exit the program
 ```
 
-So, for example, I could enter the command "encrypt" and then it will tell me what to enter, say "Hello, world!" the program would return the encrypted message, as a python container. Then, you could even decrypt the message, by typing "decrypt" as a command and copy and paste the encrypted message in, to get your message back! 
+So, for example, I could enter the command "encrypt" and then it will tell me what to enter say, "Hello, world!" and the program would return the encrypted message as a python container. Then, you could even decrypt the message, by typing the command "decrypt" and copy and paste the encrypted message in to get your message back, and for this example it would be "Hello, world!" 
 Like so:
 
 ```txt
